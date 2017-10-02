@@ -26,10 +26,12 @@ For use this demo properly you will need this libraries:
 
 ## Features
 
-*Firebase Application *RecyclerView *FloattingActionButton
-*Custom Row
+* Firebase Application
+* RecyclerView
+* FloattingActionButton
+* Custom Row
 
-##Screenshots
+## Screenshots  
 <img src="https://cloud.githubusercontent.com/assets/9124597/14400040/9bbf67ae-fdb8-11e5-9c30-3f79a9401b03.png" width="23%"></img>
 <img src="https://cloud.githubusercontent.com/assets/9124597/14400046/a83de35c-fdb8-11e5-92c1-efcce8bb742b.png" width="23%"></img> 
 <img src="https://cloud.githubusercontent.com/assets/9124597/14400050/adec5720-fdb8-11e5-9265-0bc2107d9088.png" width="23%"></img> 
